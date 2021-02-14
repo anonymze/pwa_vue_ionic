@@ -1,0 +1,10 @@
+{
+    "name": "Chercheur de code postal",
+    "short_name": "ZipCode",
+    "descripription": "Trouvez d'où provient votre code postal",
+    "theme_color": "#3880ff",
+    "background_color": "#fff",
+    "lang": "fr",
+    "display": "standalone",
+    "start_url": "/"
+}
