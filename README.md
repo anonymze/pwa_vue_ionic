@@ -1,24 +1,19 @@
-# pwa_vue_ionic
+/* router */
+yarn add router
 
-## Project setup
-```
-yarn install
-```
+/* ionic/vue µ:
+npm i @ionic/vue (if not working)
+npm i @ionic/vue@0.0.9
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+// error core-js
+presets: [ [ "@vue/app", { useBuiltIns: "entry" } ] ]
 
-### Compiles and minifies for production
-```
-yarn build
-```
+//firebase
+npm i -g firebase-tools
+firebase login
+firbase logout
+firebase serve (lancer l'app depuis le server firebase)
+firebase deploy
 
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+/pwa
+vue add @vue/pwa
