@@ -17,3 +17,4 @@ firebase deploy
 
 /pwa
 vue add @vue/pwa
+vue add pwa
